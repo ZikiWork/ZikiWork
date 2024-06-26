@@ -10,7 +10,7 @@
 
 ## 🧐 About
 
-- 👨‍💻 My blog 网站: https://www.zhouyuxin.net
+- 👨‍💻 My blog 网站: https://www.zhouyuxin.net / https://www.zhouyuxin.net
 - 📫 How to reach me 邮箱: zhouyuxintop@foxmail.com
 - 👯 wechat 微信公众号搜搜: [ZikiWork]
 - 🌱 Languages and Tools: 
